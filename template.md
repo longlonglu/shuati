@@ -12,8 +12,8 @@ ___
 
 ___
 
-`Time complexity : O(n)`
+`Time complexity : O()`
 
-`Space complexity : O(n)`
+`Space complexity : O()`
 ```python
 ```
